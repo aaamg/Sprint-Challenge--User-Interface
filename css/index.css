@@ -245,6 +245,7 @@ footer nav a {
 /* Top of about page DONE */
 /* ----mid below----- */
 
+
 .mid {
     display: flex;
     /*border: 2px solid orange; */
@@ -261,6 +262,10 @@ footer nav a {
     width: 370px;
 }
 
+.mid-h3{
+    padding-top: 5px;
+    
+}
 
 
 .buttons {
