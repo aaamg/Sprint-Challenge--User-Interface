@@ -48,11 +48,11 @@ Margin, border, padding, content
 
 Main.
 
-5. Explain why git is valuable to a team of developers.
+5. Explain why git is valuable to a team of developers.  
+
+Makes it easy to post certain updates that are a screenshot at a time in the projects life so you can go back if necessary without deleting a ton of code. A timeline that can be used in either direction.  
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.  
-
-Makes it easy to post certain updates that are a screenshot at a time in the projects life so you can go back if necessary without deleting a ton of code. A timeline that can be used in either direction.
 
 ## Project Set Up
 
